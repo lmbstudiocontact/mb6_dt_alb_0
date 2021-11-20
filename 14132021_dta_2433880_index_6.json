@@ -6,12 +6,7 @@
     "id_bin": "1589",
     "list_language": [],
     "array_tags": [
-      "blackpink",
-      "pink",
-      "jisoo",
-      "jennie",
-      "black",
-      "lisa"
+      "black"
     ],
     "list_album": [
       {
@@ -85,7 +80,6 @@
     "id_bin": "1599",
     "list_language": [],
     "array_tags": [
-      "cat",
       "black"
     ],
     "list_album": [
@@ -103,8 +97,6 @@
     "id_bin": "1601",
     "list_language": [],
     "array_tags": [
-      "cat",
-      "paw",
       "black",
       "simple"
     ],
@@ -123,10 +115,7 @@
     "id_bin": "1602",
     "list_language": [],
     "array_tags": [
-      "cat",
-      "paw",
-      "simple",
-      "grey"
+      "simple"
     ],
     "list_album": [
       {
@@ -144,8 +133,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "meme",
-      "cat",
       "pulse",
       "time",
       "battery",
@@ -178,8 +165,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -197,14 +183,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "cat",
       "black",
       "weather",
-      "google",
       "battery",
       "sport",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -221,8 +204,6 @@
     "id_bin": "1606",
     "list_language": [],
     "array_tags": [
-      "banana",
-      "cat",
       "simple",
       "time"
     ],
@@ -241,12 +222,7 @@
     "id_bin": "1607",
     "list_language": [],
     "array_tags": [
-      "blackpink",
-      "pink",
-      "lalisa",
-      "manoban",
       "black",
-      "lisa",
       "time"
     ],
     "list_album": [
@@ -265,9 +241,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "trollface",
       "pulse",
-      "troll",
       "animated",
       "time",
       "steps"
@@ -287,7 +261,6 @@
     "id_bin": "161",
     "list_language": [],
     "array_tags": [
-      "applerainbow",
       "apple"
     ],
     "list_album": [
@@ -346,10 +319,7 @@
     "array_tags": [
       "date",
       "soccer",
-      "psg",
-      "football",
       "time",
-      "team",
       "sport"
     ],
     "list_album": [
@@ -367,7 +337,6 @@
     "id_bin": "1616",
     "list_language": [],
     "array_tags": [
-      "week",
       "weather",
       "alarm",
       "pai",
@@ -389,9 +358,6 @@
     "list_language": [],
     "array_tags": [
       "soccer",
-      "manu",
-      "ronaldo",
-      "football",
       "time",
       "sport"
     ],
@@ -410,14 +376,9 @@
     "id_bin": "1621",
     "list_language": [],
     "array_tags": [
-      "orange",
       "soccer",
-      "barcelona",
-      "football",
-      "goat",
       "time",
-      "sport",
-      "messi"
+      "sport"
     ],
     "list_album": [
       {
@@ -504,15 +465,10 @@
     "array_tags": [
       "red",
       "date",
-      "nintendo",
       "bluetooth",
       "games",
-      "mario",
-      "days",
-      "arcade",
       "dnd",
-      "battery",
-      "rush"
+      "battery"
     ],
     "list_album": [
       {
@@ -566,12 +522,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1634.bin",
     "id_bin": "1634",
     "list_language": [],
-    "array_tags": [
-      "sakura",
-      "vibe",
-      "japanese",
-      "lofi"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -610,7 +561,6 @@
       "date",
       "game",
       "heartrate",
-      "doom",
       "games",
       "battery",
       "steps"
@@ -712,7 +662,6 @@
       "date",
       "bluetooth",
       "pulse",
-      "sot",
       "time",
       "battery",
       "steps"
@@ -779,19 +728,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -810,7 +754,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -835,9 +778,7 @@
     "id_bin": "166",
     "list_language": [],
     "array_tags": [
-      "white",
-      "nike",
-      "foot"
+      "white"
     ],
     "list_album": [
       {
@@ -904,9 +845,7 @@
       "weekday",
       "time",
       "battery",
-      "am",
-      "steps",
-      "pm"
+      "steps"
     ],
     "list_album": [
       {
@@ -926,7 +865,6 @@
       "date",
       "weekday",
       "weather",
-      "bender",
       "battery",
       "animation"
     ],
@@ -944,11 +882,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/167.bin",
     "id_bin": "167",
     "list_language": [],
-    "array_tags": [
-      "color",
-      "tunel",
-      "triangle"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -1041,12 +975,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weekday",
-      "epic",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {
@@ -1065,11 +995,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weather",
       "weekday",
-      "epic",
       "battery"
     ],
     "list_album": [
@@ -1089,8 +1016,6 @@
     "array_tags": [
       "bluetooth",
       "weather",
-      "minimalist",
-      "minimalista",
       "battery",
       "steps"
     ],

@@ -7,7 +7,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "jeremy",
       "steps"
     ],
     "list_album": [
@@ -26,8 +25,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "steps",
-      "odd"
+      "steps"
     ],
     "list_album": [
       {
@@ -45,7 +43,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "ulrich",
       "steps"
     ],
     "list_album": [
@@ -63,7 +60,6 @@
     "id_bin": "2194",
     "list_language": [],
     "array_tags": [
-      "yumi",
       "heartrate",
       "steps"
     ],
@@ -82,7 +78,6 @@
     "id_bin": "2195",
     "list_language": [],
     "array_tags": [
-      "william",
       "heartrate",
       "steps"
     ],
@@ -158,7 +153,6 @@
     "id_bin": "2200",
     "list_language": [],
     "array_tags": [
-      "heatblast",
       "heartrate",
       "steps"
     ],
@@ -199,7 +193,6 @@
       "marvel",
       "cartoon",
       "heartrate",
-      "spiderman",
       "steps"
     ],
     "list_album": [
@@ -259,10 +252,8 @@
     "id_bin": "2251",
     "list_language": [],
     "array_tags": [
-      "nintendo",
       "heartrate",
-      "steps",
-      "kirby"
+      "steps"
     ],
     "list_album": [
       {
@@ -283,7 +274,6 @@
       "heartrate",
       "serie",
       "games",
-      "batgirl",
       "batman",
       "steps"
     ],
@@ -371,7 +361,6 @@
       "heartrate",
       "games",
       "serie",
-      "joker",
       "batman",
       "steps"
     ],
@@ -390,7 +379,6 @@
     "id_bin": "2258",
     "list_language": [],
     "array_tags": [
-      "nightwing",
       "cartoon",
       "heartrate",
       "serie",
@@ -456,7 +444,6 @@
     "id_bin": "2261",
     "list_language": [],
     "array_tags": [
-      "robin",
       "cartoon",
       "heartrate",
       "games",
@@ -480,8 +467,6 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "superhero",
-      "comics",
       "games",
       "serie",
       "steps"
@@ -503,7 +488,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -521,13 +505,9 @@
     "id_bin": "2275",
     "list_language": [],
     "array_tags": [
-      "donald",
-      "goofy",
       "cartoon",
-      "disney",
       "heartrate",
-      "steps",
-      "mickey"
+      "steps"
     ],
     "list_album": [
       {
@@ -547,7 +527,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",

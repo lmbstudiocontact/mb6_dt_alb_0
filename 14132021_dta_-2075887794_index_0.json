@@ -22,10 +22,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1464.bin",
     "id_bin": "1464",
     "list_language": [],
-    "array_tags": [
-      "fallout",
-      "pipboy"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -41,9 +38,7 @@
     "id_bin": "159",
     "list_language": [],
     "array_tags": [
-      "superman",
-      "batman",
-      "fight"
+      "batman"
     ],
     "list_album": [
       {
@@ -60,8 +55,6 @@
     "id_bin": "160",
     "list_language": [],
     "array_tags": [
-      "fusion",
-      "superman",
       "batman"
     ],
     "list_album": [
@@ -103,9 +96,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "games",
-      "arcade",
-      "dash"
+      "games"
     ],
     "list_album": [
       {
@@ -124,8 +115,7 @@
     "array_tags": [
       "sonic",
       "blue",
-      "games",
-      "arcade"
+      "games"
     ],
     "list_album": [
       {
@@ -144,8 +134,7 @@
     "array_tags": [
       "sonic",
       "blue",
-      "games",
-      "arcade"
+      "games"
     ],
     "list_album": [
       {
@@ -163,11 +152,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "nintendo",
-      "games",
-      "mario",
-      "arcade",
-      "rush"
+      "games"
     ],
     "list_album": [
       {
@@ -298,8 +283,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -321,7 +304,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -364,7 +346,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -386,7 +367,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -407,10 +387,7 @@
       "date",
       "apple",
       "heartrate",
-      "disney",
-      "toystory",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -432,7 +409,6 @@
       "apple",
       "heartrate",
       "english",
-      "woody",
       "watchos"
     ],
     "list_album": [
@@ -471,11 +447,8 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "fallout",
-      "ita",
       "italian",
-      "steps",
-      "pipboy"
+      "steps"
     ],
     "list_album": [
       {
@@ -512,11 +485,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "silk",
-      "moon",
       "marvel",
       "heartrate",
-      "cindy",
       "battery",
       "steps"
     ],
@@ -534,11 +504,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/531.bin",
     "id_bin": "531",
     "list_language": [],
-    "array_tags": [
-      "fallout",
-      "ja",
-      "pipboy"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -554,7 +520,6 @@
     "id_bin": "581",
     "list_language": [],
     "array_tags": [
-      "minecraft",
       "animation"
     ],
     "list_album": [
@@ -622,7 +587,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "rick",
       "steps"
     ],
     "list_album": [
@@ -641,11 +605,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "impactopdesign",
       "heartrate",
       "battery",
-      "steps",
-      "minions"
+      "steps"
     ],
     "list_album": [
       {
@@ -662,8 +624,6 @@
     "id_bin": "600",
     "list_language": [],
     "array_tags": [
-      "starve",
-      "dont",
       "animation"
     ],
     "list_album": [
@@ -682,9 +642,6 @@
     "list_language": [],
     "array_tags": [
       "marvel",
-      "comics",
-      "superman",
-      "spiderman",
       "batman",
       "animation"
     ],
@@ -757,9 +714,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/705.bin",
     "id_bin": "705",
     "list_language": [],
-    "array_tags": [
-      "patryk"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -775,8 +730,6 @@
     "id_bin": "750",
     "list_language": [],
     "array_tags": [
-      "king",
-      "lion",
       "animation"
     ],
     "list_album": [
@@ -793,10 +746,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/796.bin",
     "id_bin": "796",
     "list_language": [],
-    "array_tags": [
-      "superhero",
-      "spiderman"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -811,10 +761,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/801.bin",
     "id_bin": "801",
     "list_language": [],
-    "array_tags": [
-      "sailor",
-      "bunny"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -830,8 +777,7 @@
     "id_bin": "803",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "analogico"
+      "analog"
     ],
     "list_album": [
       {
@@ -869,11 +815,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
-      "hours",
       "weekday",
       "battery",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -892,10 +835,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
       "weather",
       "weekday",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -913,9 +854,7 @@
     "id_bin": "1761",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "disney",
-      "pluto"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -932,9 +871,7 @@
     "id_bin": "1764",
     "list_language": [],
     "array_tags": [
-      "donald",
-      "cartoon",
-      "disney"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -952,7 +889,6 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "hedgehog",
       "cartoon"
     ],
     "list_album": [
@@ -971,9 +907,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "shadow",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -990,10 +924,8 @@
     "id_bin": "1819",
     "list_language": [],
     "array_tags": [
-      "tails",
       "sonic",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -1011,9 +943,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "cartoon",
-      "knuckles",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {

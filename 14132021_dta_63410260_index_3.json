@@ -6,8 +6,7 @@
     "id_bin": "1879",
     "list_language": [],
     "array_tags": [
-      "anime",
-      "thors"
+      "anime"
     ],
     "list_album": [
       {
@@ -24,7 +23,6 @@
     "id_bin": "1880",
     "list_language": [],
     "array_tags": [
-      "mickey",
       "anime"
     ],
     "list_album": [
@@ -42,7 +40,6 @@
     "id_bin": "1899",
     "list_language": [],
     "array_tags": [
-      "tanjiro",
       "anime"
     ],
     "list_album": [
@@ -60,7 +57,6 @@
     "id_bin": "1900",
     "list_language": [],
     "array_tags": [
-      "bakugo",
       "anime"
     ],
     "list_album": [
@@ -78,7 +74,6 @@
     "id_bin": "1908",
     "list_language": [],
     "array_tags": [
-      "draken",
       "anime"
     ],
     "list_album": [
@@ -96,7 +91,6 @@
     "id_bin": "1909",
     "list_language": [],
     "array_tags": [
-      "draken",
       "anime"
     ],
     "list_album": [
@@ -114,7 +108,6 @@
     "id_bin": "1910",
     "list_language": [],
     "array_tags": [
-      "draken",
       "anime"
     ],
     "list_album": [
@@ -132,7 +125,6 @@
     "id_bin": "1911",
     "list_language": [],
     "array_tags": [
-      "draken",
       "anime"
     ],
     "list_album": [
@@ -150,8 +142,6 @@
     "id_bin": "1912",
     "list_language": [],
     "array_tags": [
-      "aqua",
-      "konosuba",
       "anime"
     ],
     "list_album": [
@@ -169,8 +159,6 @@
     "id_bin": "1913",
     "list_language": [],
     "array_tags": [
-      "megumin",
-      "konosuba",
       "anime"
     ],
     "list_album": [
@@ -188,7 +176,6 @@
     "id_bin": "1914",
     "list_language": [],
     "array_tags": [
-      "xiao",
       "games",
       "anime"
     ],
@@ -207,7 +194,6 @@
     "id_bin": "1915",
     "list_language": [],
     "array_tags": [
-      "xiao",
       "games",
       "anime"
     ],
@@ -226,7 +212,6 @@
     "id_bin": "1916",
     "list_language": [],
     "array_tags": [
-      "xiao",
       "games",
       "anime"
     ],
@@ -246,7 +231,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "android",
       "anime"
     ],
     "list_album": [
@@ -282,7 +266,6 @@
     "id_bin": "1971",
     "list_language": [],
     "array_tags": [
-      "trunks",
       "dragonball",
       "anime"
     ],
@@ -318,7 +301,6 @@
     "id_bin": "1981",
     "list_language": [],
     "array_tags": [
-      "inosuke",
       "anime"
     ],
     "list_album": [
@@ -336,7 +318,6 @@
     "id_bin": "1982",
     "list_language": [],
     "array_tags": [
-      "inosuke",
       "anime"
     ],
     "list_album": [
@@ -354,7 +335,6 @@
     "id_bin": "1983",
     "list_language": [],
     "array_tags": [
-      "inosuke",
       "anime"
     ],
     "list_album": [
@@ -376,8 +356,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -394,10 +373,7 @@
     "id_bin": "2004",
     "list_language": [],
     "array_tags": [
-      "ace",
-      "luffy",
       "onepiece",
-      "sabo",
       "anime"
     ],
     "list_album": [
@@ -415,7 +391,6 @@
     "id_bin": "2005",
     "list_language": [],
     "array_tags": [
-      "brook",
       "onepiece",
       "anime"
     ],
@@ -468,7 +443,6 @@
     "id_bin": "2013",
     "list_language": [],
     "array_tags": [
-      "luffy",
       "onepiece",
       "anime"
     ],
@@ -487,7 +461,6 @@
     "id_bin": "2014",
     "list_language": [],
     "array_tags": [
-      "luffy",
       "anime"
     ],
     "list_album": [
@@ -505,7 +478,6 @@
     "id_bin": "2015",
     "list_language": [],
     "array_tags": [
-      "luffy",
       "onepiece",
       "anime"
     ],
@@ -524,7 +496,6 @@
     "id_bin": "2016",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -559,7 +530,6 @@
     "id_bin": "2018",
     "list_language": [],
     "array_tags": [
-      "zoro",
       "onepiece",
       "anime"
     ],
@@ -578,7 +548,6 @@
     "id_bin": "2019",
     "list_language": [],
     "array_tags": [
-      "nami",
       "onepiece",
       "anime"
     ],
@@ -597,7 +566,6 @@
     "id_bin": "2020",
     "list_language": [],
     "array_tags": [
-      "okiku",
       "anime"
     ],
     "list_album": [
@@ -615,7 +583,6 @@
     "id_bin": "2028",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -635,7 +602,6 @@
     "array_tags": [
       "heartrate",
       "animated",
-      "power",
       "anime",
       "animation"
     ],
@@ -729,9 +695,7 @@
     "id_bin": "2056",
     "list_language": [],
     "array_tags": [
-      "digimon",
-      "anime",
-      "greymon"
+      "anime"
     ],
     "list_album": [
       {
@@ -748,9 +712,7 @@
     "id_bin": "2059",
     "list_language": [],
     "array_tags": [
-      "disney",
       "games",
-      "sora",
       "anime"
     ],
     "list_album": [
@@ -768,8 +730,6 @@
     "id_bin": "2060",
     "list_language": [],
     "array_tags": [
-      "disney",
-      "sora",
       "anime"
     ],
     "list_album": [
@@ -787,8 +747,6 @@
     "id_bin": "2072",
     "list_language": [],
     "array_tags": [
-      "brook",
-      "halloween",
       "anime"
     ],
     "list_album": [
@@ -806,8 +764,6 @@
     "id_bin": "2073",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "luffy",
       "anime"
     ],
     "list_album": [
@@ -825,8 +781,6 @@
     "id_bin": "2074",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "nami",
       "anime"
     ],
     "list_album": [
@@ -844,8 +798,6 @@
     "id_bin": "2075",
     "list_language": [],
     "array_tags": [
-      "robin",
-      "halloween",
       "anime"
     ],
     "list_album": [
@@ -863,8 +815,6 @@
     "id_bin": "2076",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "zoro",
       "anime"
     ],
     "list_album": [
@@ -882,8 +832,7 @@
     "id_bin": "2078",
     "list_language": [],
     "array_tags": [
-      "game",
-      "warhammer"
+      "game"
     ],
     "list_album": [
       {

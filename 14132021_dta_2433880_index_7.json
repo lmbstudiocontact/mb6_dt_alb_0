@@ -32,17 +32,15 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "blocks",
-      "black",
-      "weekday",
-      "battery",
-      "steps",
       "bluetooth",
       "month",
+      "black",
       "english",
+      "weekday",
       "temperature",
       "pulse",
-      "minimalist"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -60,12 +58,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
-      "battery",
-      "perun"
+      "battery"
     ],
     "list_album": [
       {
@@ -193,7 +189,6 @@
     "array_tags": [
       "digital",
       "date",
-      "victory",
       "battery",
       "steps"
     ],
@@ -215,16 +210,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [
@@ -348,8 +340,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "watch",
-      "casio"
+      "watch"
     ],
     "list_album": [
       {
@@ -386,11 +377,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/191.bin",
     "id_bin": "191",
     "list_language": [],
-    "array_tags": [
-      "gold",
-      "luxury",
-      "theme"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -405,9 +392,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/193.bin",
     "id_bin": "193",
     "list_language": [],
-    "array_tags": [
-      "color"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -468,7 +453,6 @@
     "id_bin": "203",
     "list_language": [],
     "array_tags": [
-      "dog",
       "steps",
       "animation"
     ],
@@ -786,9 +770,7 @@
     "id_bin": "235",
     "list_language": [],
     "array_tags": [
-      "digital",
-      "classic",
-      "casio"
+      "digital"
     ],
     "list_album": [
       {
@@ -832,8 +814,7 @@
       "alarm",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -870,12 +851,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "design",
       "black",
       "dark",
       "retro",
-      "simple",
-      "pixel"
+      "simple"
     ],
     "list_album": [
       {
@@ -1051,8 +1030,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {

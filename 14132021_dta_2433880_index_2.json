@@ -336,7 +336,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "artist",
       "simple"
     ],
     "list_album": [
@@ -353,11 +352,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1204.bin",
     "id_bin": "1204",
     "list_language": [],
-    "array_tags": [
-      "agallas",
-      "coraje",
-      "courage"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -373,19 +368,16 @@
     "id_bin": "1207",
     "list_language": [],
     "array_tags": [
-      "color",
-      "notdisturb",
-      "completo",
-      "heartrate",
-      "colores",
-      "calories",
-      "battery",
-      "steps",
       "kcal",
+      "notdisturb",
+      "heartrate",
       "weather",
       "pai",
       "lock",
-      "time"
+      "time",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -460,11 +452,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1213.bin",
     "id_bin": "1213",
     "list_language": [],
-    "array_tags": [
-      "romania",
-      "pill",
-      "ro"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -561,7 +549,6 @@
     "id_bin": "1219",
     "list_language": [],
     "array_tags": [
-      "moon",
       "dark"
     ],
     "list_album": [
@@ -581,7 +568,6 @@
     "array_tags": [
       "red",
       "game",
-      "doom",
       "games"
     ],
     "list_album": [
@@ -629,15 +615,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -657,7 +640,6 @@
     "array_tags": [
       "red",
       "blue",
-      "techno",
       "time",
       "colors"
     ],
@@ -677,12 +659,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "evelynn",
       "games",
-      "lol",
       "english",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -729,30 +708,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -769,11 +739,7 @@
     "id_bin": "124",
     "list_language": [],
     "array_tags": [
-      "br",
-      "eua",
       "digital",
-      "geral",
-      "completo",
       "brasil"
     ],
     "list_album": [
@@ -792,7 +758,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -933,16 +898,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -984,7 +947,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -1010,14 +972,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
       "animated",
       "simple",
-      "animes",
-      "girl",
       "anime",
-      "animation",
-      "simples"
+      "animation"
     ],
     "list_album": [
       {
@@ -1050,24 +1008,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],

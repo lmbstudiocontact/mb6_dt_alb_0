@@ -34,7 +34,6 @@
     "id_bin": "756",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -52,8 +51,6 @@
     "id_bin": "757",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
-      "wtf",
       "taekwondo"
     ],
     "list_album": [
@@ -71,7 +68,6 @@
     "id_bin": "758",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -89,7 +85,6 @@
     "id_bin": "759",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -107,7 +102,6 @@
     "id_bin": "760",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -126,15 +120,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -154,7 +145,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -173,9 +163,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "night",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -220,12 +208,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/767.bin",
     "id_bin": "767",
     "list_language": [],
-    "array_tags": [
-      "taekwo",
-      "kukkiwon",
-      "wtf",
-      "tkd"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -241,9 +224,6 @@
     "id_bin": "768",
     "list_language": [],
     "array_tags": [
-      "korea",
-      "tae",
-      "fight",
       "taekwondo"
     ],
     "list_album": [
@@ -306,7 +286,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -419,7 +398,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -439,7 +417,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -478,7 +455,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "gray",
       "simple",
       "basic"
     ],
@@ -499,7 +475,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -526,11 +501,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/786.bin",
     "id_bin": "786",
     "list_language": [],
-    "array_tags": [
-      "bear",
-      "gaybear",
-      "gay"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -548,14 +519,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -578,8 +547,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "black",
-      "abstract"
+      "black"
     ],
     "list_album": [
       {
@@ -596,21 +564,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {
@@ -628,7 +589,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "time",
       "battery"
     ],
@@ -653,8 +613,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -671,8 +630,6 @@
     "id_bin": "797",
     "list_language": [],
     "array_tags": [
-      "comics",
-      "thundercats",
       "anime"
     ],
     "list_album": [
@@ -895,12 +852,9 @@
     "id_bin": "814",
     "list_language": [],
     "array_tags": [
-      "orange",
       "analog",
       "minimal",
-      "analogico",
-      "basic",
-      "fashion"
+      "basic"
     ],
     "list_album": [
       {
@@ -916,10 +870,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/816.bin",
     "id_bin": "816",
     "list_language": [],
-    "array_tags": [
-      "sonrisa",
-      "smile"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -952,10 +903,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/827.bin",
     "id_bin": "827",
     "list_language": [],
-    "array_tags": [
-      "tama",
-      "tamagochi"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -1021,8 +969,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {
@@ -1040,7 +987,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ita",
       "english",
       "pulse",
       "weather",
@@ -1062,7 +1008,6 @@
     "id_bin": "837",
     "list_language": [],
     "array_tags": [
-      "rus",
       "sun"
     ],
     "list_album": [

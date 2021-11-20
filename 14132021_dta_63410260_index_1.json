@@ -189,8 +189,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -213,8 +212,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -232,7 +230,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "levi",
       "anime"
     ],
     "list_album": [
@@ -251,8 +248,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "pain",
-      "nagato",
       "anime"
     ],
     "list_album": [
@@ -270,11 +265,8 @@
     "id_bin": "704",
     "list_language": [],
     "array_tags": [
-      "orange",
       "date",
-      "zenitsu",
       "battery",
-      "agatsuma",
       "steps",
       "anime"
     ],
@@ -332,7 +324,6 @@
     "array_tags": [
       "red",
       "date",
-      "rose",
       "battery",
       "steps",
       "anime"
@@ -352,8 +343,6 @@
     "id_bin": "749",
     "list_language": [],
     "array_tags": [
-      "titan",
-      "atack",
       "anime",
       "animation"
     ],
@@ -372,7 +361,6 @@
     "id_bin": "754",
     "list_language": [],
     "array_tags": [
-      "boy",
       "anime",
       "animation"
     ],
@@ -391,8 +379,7 @@
     "id_bin": "787",
     "list_language": [],
     "array_tags": [
-      "pokemon",
-      "pikachu"
+      "pokemon"
     ],
     "list_album": [
       {
@@ -485,7 +472,6 @@
     "id_bin": "871",
     "list_language": [],
     "array_tags": [
-      "hours",
       "battery",
       "steps"
     ],
@@ -555,7 +541,6 @@
     "id_bin": "1746",
     "list_language": [],
     "array_tags": [
-      "tanjiro",
       "anime"
     ],
     "list_album": [
@@ -573,7 +558,6 @@
     "id_bin": "1747",
     "list_language": [],
     "array_tags": [
-      "eren",
       "anime"
     ],
     "list_album": [
@@ -591,7 +575,6 @@
     "id_bin": "1749",
     "list_language": [],
     "array_tags": [
-      "todoroki",
       "anime"
     ],
     "list_album": [
@@ -609,7 +592,6 @@
     "id_bin": "1750",
     "list_language": [],
     "array_tags": [
-      "dabi",
       "anime"
     ],
     "list_album": [
@@ -627,8 +609,6 @@
     "id_bin": "1751",
     "list_language": [],
     "array_tags": [
-      "midoriya",
-      "deku",
       "anime"
     ],
     "list_album": [
@@ -646,8 +626,6 @@
     "id_bin": "1752",
     "list_language": [],
     "array_tags": [
-      "kirito",
-      "asuna",
       "anime"
     ],
     "list_album": [
@@ -665,7 +643,6 @@
     "id_bin": "1753",
     "list_language": [],
     "array_tags": [
-      "rengoku",
       "anime"
     ],
     "list_album": [
@@ -683,7 +660,6 @@
     "id_bin": "1754",
     "list_language": [],
     "array_tags": [
-      "zenitsu",
       "anime"
     ],
     "list_album": [
@@ -701,7 +677,6 @@
     "id_bin": "1755",
     "list_language": [],
     "array_tags": [
-      "luffy",
       "anime"
     ],
     "list_album": [
@@ -719,7 +694,6 @@
     "id_bin": "1756",
     "list_language": [],
     "array_tags": [
-      "doraemon",
       "anime"
     ],
     "list_album": [
@@ -737,7 +711,6 @@
     "id_bin": "1760",
     "list_language": [],
     "array_tags": [
-      "nezuko",
       "anime"
     ],
     "list_album": [
@@ -755,7 +728,6 @@
     "id_bin": "1762",
     "list_language": [],
     "array_tags": [
-      "kirito",
       "anime"
     ],
     "list_album": [
@@ -773,9 +745,6 @@
     "id_bin": "1763",
     "list_language": [],
     "array_tags": [
-      "midoriya",
-      "deku",
-      "izuku",
       "anime"
     ],
     "list_album": [
@@ -793,7 +762,6 @@
     "id_bin": "1765",
     "list_language": [],
     "array_tags": [
-      "natsu",
       "anime"
     ],
     "list_album": [
@@ -811,7 +779,6 @@
     "id_bin": "1768",
     "list_language": [],
     "array_tags": [
-      "kirito",
       "anime"
     ],
     "list_album": [
@@ -829,7 +796,6 @@
     "id_bin": "1769",
     "list_language": [],
     "array_tags": [
-      "eugeo",
       "anime"
     ],
     "list_album": [
@@ -847,7 +813,6 @@
     "id_bin": "1770",
     "list_language": [],
     "array_tags": [
-      "zoro",
       "onepiece",
       "anime"
     ],
@@ -866,7 +831,6 @@
     "id_bin": "1772",
     "list_language": [],
     "array_tags": [
-      "doraemon",
       "anime"
     ],
     "list_album": [
@@ -901,9 +865,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/1774.bin",
     "id_bin": "1774",
     "list_language": [],
-    "array_tags": [
-      "alice"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "63410260",
@@ -919,7 +881,6 @@
     "id_bin": "1775",
     "list_language": [],
     "array_tags": [
-      "deku",
       "anime"
     ],
     "list_album": [
@@ -954,9 +915,6 @@
     "id_bin": "1778",
     "list_language": [],
     "array_tags": [
-      "midoriya",
-      "deku",
-      "izuku",
       "anime"
     ],
     "list_album": [

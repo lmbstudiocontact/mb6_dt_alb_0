@@ -6,7 +6,6 @@
     "id_bin": "937",
     "list_language": [],
     "array_tags": [
-      "fit",
       "animation"
     ],
     "list_album": [
@@ -75,8 +74,7 @@
     "id_bin": "943",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "moto"
+      "analog"
     ],
     "list_album": [
       {
@@ -191,12 +189,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "valorant",
       "games",
       "time",
       "battery",
-      "steps",
-      "raze"
+      "steps"
     ],
     "list_album": [
       {
@@ -265,10 +261,8 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
-      "minimalist",
       "lock",
       "dnd",
-      "girl",
       "sun"
     ],
     "list_album": [
@@ -286,9 +280,7 @@
     "id_bin": "957",
     "list_language": [],
     "array_tags": [
-      "gold",
-      "analog",
-      "fashion"
+      "analog"
     ],
     "list_album": [
       {
@@ -306,9 +298,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "metal",
-      "simple",
-      "fashion"
+      "simple"
     ],
     "list_album": [
       {
@@ -326,8 +316,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "modern",
-      "digi",
       "simple",
       "battery"
     ],
@@ -346,13 +334,7 @@
     "id_bin": "961",
     "list_language": [],
     "array_tags": [
-      "roxo",
-      "bank",
-      "purple",
-      "banco",
       "brasil",
-      "roxinho",
-      "girl",
       "space"
     ],
     "list_album": [
@@ -412,14 +394,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/968.bin",
     "id_bin": "968",
     "list_language": [],
-    "array_tags": [
-      "money",
-      "yellow",
-      "binance",
-      "bitcoin",
-      "crypto",
-      "coin"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -434,16 +409,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/97.bin",
     "id_bin": "97",
     "list_language": [],
-    "array_tags": [
-      "islam",
-      "andalucia",
-      "abuelo",
-      "abuela",
-      "abuelos",
-      "tradicional",
-      "azulejos",
-      "arabe"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -544,12 +510,7 @@
     "id_bin": "98",
     "list_language": [],
     "array_tags": [
-      "green",
-      "celta",
-      "celtic",
-      "verde",
-      "irlanda",
-      "galicia"
+      "green"
     ],
     "list_album": [
       {
@@ -583,7 +544,6 @@
     "id_bin": "989",
     "list_language": [],
     "array_tags": [
-      "pixel",
       "animation"
     ],
     "list_album": [
@@ -601,11 +561,7 @@
     "id_bin": "99",
     "list_language": [],
     "array_tags": [
-      "marca",
       "blue",
-      "deporte",
-      "nike",
-      "azul",
       "sport"
     ],
     "list_album": [
@@ -626,9 +582,7 @@
       "red",
       "minimal",
       "white",
-      "future",
-      "black",
-      "hex"
+      "black"
     ],
     "list_album": [
       {
@@ -645,10 +599,6 @@
     "id_bin": "993",
     "list_language": [],
     "array_tags": [
-      "nubank",
-      "roxa",
-      "banco",
-      "purple",
       "space"
     ],
     "list_album": [
@@ -689,8 +639,6 @@
     "id_bin": "996",
     "list_language": [],
     "array_tags": [
-      "army",
-      "brazil",
       "brasil"
     ],
     "list_album": [
@@ -707,13 +655,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/997.bin",
     "id_bin": "997",
     "list_language": [],
-    "array_tags": [
-      "army",
-      "bignumbers",
-      "camouflaged",
-      "art",
-      "russian"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -728,12 +670,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/998.bin",
     "id_bin": "998",
     "list_language": [],
-    "array_tags": [
-      "eua",
-      "army",
-      "american",
-      "us"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",

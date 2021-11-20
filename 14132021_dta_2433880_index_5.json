@@ -46,7 +46,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -75,8 +74,6 @@
     "id_bin": "1462",
     "list_language": [],
     "array_tags": [
-      "tesla",
-      "car",
       "simple",
       "battery",
       "steps"
@@ -210,7 +207,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -339,9 +335,7 @@
     "id_bin": "1490",
     "list_language": [],
     "array_tags": [
-      "english",
-      "italiano",
-      "bear"
+      "english"
     ],
     "list_album": [
       {
@@ -360,7 +354,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -408,7 +401,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -433,8 +425,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
-      "phone",
       "battery"
     ],
     "list_album": [
@@ -472,7 +462,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -518,8 +507,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "nokia",
-      "digitalky",
       "weather",
       "battery"
     ],
@@ -561,8 +548,6 @@
     "id_bin": "1529",
     "list_language": [],
     "array_tags": [
-      "negro",
-      "buraco",
       "space"
     ],
     "list_album": [
@@ -649,7 +634,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "day"
     ],
@@ -669,9 +653,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
-      "weather",
-      "czech"
+      "weather"
     ],
     "list_album": [
       {
@@ -689,10 +671,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
       "weather",
-      "weekday",
-      "czech"
+      "weekday"
     ],
     "list_album": [
       {
@@ -710,7 +690,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "battery",
       "day"
@@ -731,7 +710,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",
@@ -752,9 +730,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1551.bin",
     "id_bin": "1551",
     "list_language": [],
-    "array_tags": [
-      "gundam"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -769,10 +745,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1552.bin",
     "id_bin": "1552",
     "list_language": [],
-    "array_tags": [
-      "tissot",
-      "silver"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -1002,11 +975,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -1029,7 +1000,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -1053,8 +1023,7 @@
       "date",
       "analog",
       "weather",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -1071,8 +1040,7 @@
     "id_bin": "1588",
     "list_language": [],
     "array_tags": [
-      "simple",
-      "football"
+      "simple"
     ],
     "list_album": [
       {

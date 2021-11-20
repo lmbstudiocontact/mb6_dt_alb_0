@@ -98,7 +98,6 @@
     "id_bin": "844",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -116,8 +115,6 @@
     "id_bin": "845",
     "list_language": [],
     "array_tags": [
-      "horror",
-      "night",
       "anime",
       "animation"
     ],
@@ -136,9 +133,6 @@
     "id_bin": "847",
     "list_language": [],
     "array_tags": [
-      "night",
-      "girl",
-      "dog",
       "animation"
     ],
     "list_album": [
@@ -282,7 +276,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -305,7 +298,6 @@
     "id_bin": "855",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
       "taekwondo"
     ],
     "list_album": [
@@ -342,16 +334,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -370,16 +360,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -649,14 +637,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chomusuke",
       "heartrate",
-      "cat",
-      "step",
       "calories",
-      "battery",
-      "konosuba",
-      "rpm"
+      "battery"
     ],
     "list_album": [
       {
@@ -705,7 +688,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -791,11 +773,9 @@
     "id_bin": "907",
     "list_language": [],
     "array_tags": [
-      "brazil",
       "brasil",
       "simple",
-      "colors",
-      "simples"
+      "colors"
     ],
     "list_album": [
       {
@@ -813,7 +793,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gif",
       "games"
     ],
     "list_album": [
@@ -889,21 +868,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -966,7 +938,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday"
     ],

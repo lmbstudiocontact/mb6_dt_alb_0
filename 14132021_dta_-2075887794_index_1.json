@@ -7,9 +7,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "shadow",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -43,8 +41,7 @@
     "id_bin": "1882",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "deadpool"
+      "marvel"
     ],
     "list_album": [
       {
@@ -95,8 +92,7 @@
     "id_bin": "1885",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "magneto"
+      "marvel"
     ],
     "list_album": [
       {
@@ -113,8 +109,7 @@
     "id_bin": "1886",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "spiderman"
+      "marvel"
     ],
     "list_album": [
       {
@@ -131,8 +126,7 @@
     "id_bin": "1887",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "venom"
+      "marvel"
     ],
     "list_album": [
       {
@@ -149,7 +143,6 @@
     "id_bin": "1888",
     "list_language": [],
     "array_tags": [
-      "wolverine",
       "marvel"
     ],
     "list_album": [
@@ -167,7 +160,6 @@
     "id_bin": "1889",
     "list_language": [],
     "array_tags": [
-      "wolverine",
       "marvel"
     ],
     "list_album": [
@@ -236,9 +228,7 @@
     "id_bin": "1904",
     "list_language": [],
     "array_tags": [
-      "piolin",
-      "cartoon",
-      "tweety"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -272,9 +262,7 @@
     "id_bin": "1906",
     "list_language": [],
     "array_tags": [
-      "silvestre",
-      "cartoon",
-      "sylvester"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -291,9 +279,7 @@
     "id_bin": "1907",
     "list_language": [],
     "array_tags": [
-      "tazmania",
-      "cartoon",
-      "tazmanian"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -312,9 +298,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega",
-      "amy"
+      "games"
     ],
     "list_album": [
       {
@@ -333,8 +317,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega"
+      "games"
     ],
     "list_album": [
       {
@@ -353,9 +336,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega",
-      "silver"
+      "games"
     ],
     "list_album": [
       {
@@ -389,10 +370,7 @@
     "id_bin": "1924",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "link",
-      "zelda"
+      "game"
     ],
     "list_album": [
       {
@@ -409,10 +387,7 @@
     "id_bin": "1925",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "link",
-      "zelda"
+      "game"
     ],
     "list_album": [
       {
@@ -429,10 +404,7 @@
     "id_bin": "1926",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "zelda",
-      "link"
+      "game"
     ],
     "list_album": [
       {
@@ -449,10 +421,7 @@
     "id_bin": "1942",
     "list_language": [],
     "array_tags": [
-      "nickelodeon",
-      "bob",
-      "cartoon",
-      "spongebob"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -469,7 +438,6 @@
     "id_bin": "1967",
     "list_language": [],
     "array_tags": [
-      "nickelodeon",
       "cartoon"
     ],
     "list_album": [
@@ -504,9 +472,7 @@
     "id_bin": "1969",
     "list_language": [],
     "array_tags": [
-      "pedro",
-      "cartoon",
-      "picapiedra"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -574,7 +540,6 @@
     "id_bin": "1991",
     "list_language": [],
     "array_tags": [
-      "elmer",
       "cartoon"
     ],
     "list_album": [
@@ -660,8 +625,7 @@
     "id_bin": "1996",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "correcaminos"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -695,8 +659,7 @@
     "id_bin": "1998",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "taz"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -713,8 +676,7 @@
     "id_bin": "1999",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "tweety"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -731,9 +693,7 @@
     "id_bin": "2000",
     "list_language": [],
     "array_tags": [
-      "silvestre",
-      "cartoon",
-      "sylvester"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -767,7 +727,6 @@
     "id_bin": "2006",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -785,7 +744,6 @@
     "id_bin": "2008",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -803,7 +761,6 @@
     "id_bin": "2009",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -821,7 +778,6 @@
     "id_bin": "2010",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -839,7 +795,6 @@
     "id_bin": "2011",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -859,8 +814,7 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "pulse",
-      "spiderman"
+      "pulse"
     ],
     "list_album": [
       {
@@ -895,7 +849,6 @@
     "id_bin": "2190",
     "list_language": [],
     "array_tags": [
-      "aelita",
       "heartrate",
       "steps"
     ],

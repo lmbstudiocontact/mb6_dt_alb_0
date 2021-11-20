@@ -44,9 +44,6 @@
     "id_bin": "2240",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "reimu",
-      "hakurei",
       "anime"
     ],
     "list_album": [
@@ -64,9 +61,6 @@
     "id_bin": "2242",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "marisa",
-      "kirisame",
       "anime"
     ],
     "list_album": [
@@ -84,10 +78,7 @@
     "id_bin": "2245",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "patchouli",
-      "anime",
-      "knowledge"
+      "anime"
     ],
     "list_album": [
       {
@@ -104,8 +95,6 @@
     "id_bin": "2270",
     "list_language": [],
     "array_tags": [
-      "evangelion",
-      "asuka",
       "heartrate",
       "steps",
       "anime"
@@ -126,7 +115,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -167,7 +155,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "diluc",
       "games",
       "steps"
     ],
@@ -188,7 +175,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -207,7 +193,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -247,7 +232,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -267,7 +251,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -286,8 +269,6 @@
     "id_bin": "2281",
     "list_language": [],
     "array_tags": [
-      "hitman",
-      "eidos",
       "heartrate",
       "games",
       "steps"
@@ -308,7 +289,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -328,7 +308,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -349,7 +328,6 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "hunterxhunter",
       "anime"
     ],
     "list_album": [
@@ -368,7 +346,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -388,7 +365,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -448,8 +424,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -468,8 +443,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -507,7 +481,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -567,7 +540,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -586,7 +558,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -606,7 +577,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -629,7 +599,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -724,7 +693,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "sasuke",
       "heartrate",
       "steps",
       "anime"
@@ -748,8 +716,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -770,7 +736,6 @@
     "array_tags": [
       "date",
       "analog",
-      "baal",
       "heartrate",
       "games",
       "steps"
@@ -790,9 +755,7 @@
     "id_bin": "960",
     "list_language": [],
     "array_tags": [
-      "yellow",
       "animated",
-      "minimalist",
       "anime",
       "animation"
     ],
@@ -821,7 +784,6 @@
       "analog",
       "seconds",
       "floors",
-      "top",
       "weather",
       "anime"
     ],
@@ -841,10 +803,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "comics",
-      "games",
-      "pikachu",
-      "animes"
+      "games"
     ],
     "list_album": [
       {
@@ -861,10 +820,7 @@
     "id_bin": "999",
     "list_language": [],
     "array_tags": [
-      "reflect",
-      "gura",
-      "anime",
-      "hololive"
+      "anime"
     ],
     "list_album": [
       {

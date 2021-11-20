@@ -5,11 +5,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/667.bin",
     "id_bin": "667",
     "list_language": [],
-    "array_tags": [
-      "brazil",
-      "sports",
-      "vasco"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -26,10 +22,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "mcfly",
-      "nixie",
-      "ita",
-      "steinsgate",
       "italian",
       "time"
     ],
@@ -103,11 +95,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/673.bin",
     "id_bin": "673",
     "list_language": [],
-    "array_tags": [
-      "future",
-      "island",
-      "flying"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -122,10 +110,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/674.bin",
     "id_bin": "674",
     "list_language": [],
-    "array_tags": [
-      "nobuhiko",
-      "noboiko"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -140,10 +125,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/676.bin",
     "id_bin": "676",
     "list_language": [],
-    "array_tags": [
-      "nobuhiko",
-      "noboiko"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -159,7 +141,6 @@
     "id_bin": "677",
     "list_language": [],
     "array_tags": [
-      "rx",
       "black"
     ],
     "list_album": [
@@ -176,9 +157,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/678.bin",
     "id_bin": "678",
     "list_language": [],
-    "array_tags": [
-      "rx"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -216,9 +195,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -313,9 +290,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
-      "pluse",
       "weather",
       "calories",
       "steps"
@@ -336,7 +311,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
       "weather",
       "pulse",
@@ -422,7 +396,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -461,7 +434,6 @@
     "array_tags": [
       "digital",
       "analog",
-      "google",
       "battery"
     ],
     "list_album": [
@@ -536,8 +508,6 @@
     "id_bin": "711",
     "list_language": [],
     "array_tags": [
-      "dj",
-      "party",
       "animation"
     ],
     "list_album": [
@@ -636,7 +606,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -685,13 +654,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -710,9 +676,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "persona",
       "distance",
-      "videogame",
       "heartrate",
       "animated",
       "battery"
@@ -733,9 +697,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "time",
-      "simply",
-      "scorpion"
+      "time"
     ],
     "list_album": [
       {
@@ -815,10 +777,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -842,7 +801,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -850,7 +808,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -870,14 +827,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -940,21 +894,10 @@
     "id_bin": "744",
     "list_language": [],
     "array_tags": [
+      "red",
       "date",
       "digital",
-      "data",
-      "rosso",
-      "crono",
-      "meteo",
-      "digitale",
-      "vertical",
-      "numeri",
-      "red",
-      "mancini",
-      "number",
-      "destro",
-      "weather",
-      "verticale"
+      "weather"
     ],
     "list_album": [
       {
@@ -991,8 +934,6 @@
     "id_bin": "747",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
-      "wtf",
       "taekwondo"
     ],
     "list_album": [
@@ -1010,8 +951,6 @@
     "id_bin": "751",
     "list_language": [],
     "array_tags": [
-      "kosmic",
-      "future",
       "animation"
     ],
     "list_album": [
@@ -1029,8 +968,6 @@
     "id_bin": "752",
     "list_language": [],
     "array_tags": [
-      "glitch",
-      "cube",
       "animation"
     ],
     "list_album": [

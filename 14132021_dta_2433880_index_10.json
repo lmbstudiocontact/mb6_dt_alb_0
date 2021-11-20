@@ -8,16 +8,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -76,9 +75,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {
@@ -97,11 +94,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "inter",
-      "reds",
-      "futebol",
-      "colorado",
-      "internacional"
+      "futebol"
     ],
     "list_album": [
       {
@@ -140,19 +133,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "pink",
-      "sports",
-      "inter",
-      "adidas",
-      "futebol",
-      "colorado",
-      "internacional",
-      "impacto",
-      "impactopdesign",
-      "rose",
-      "rosa",
-      "colorada",
-      "gaucho"
+      "futebol"
     ],
     "list_album": [
       {
@@ -288,7 +269,6 @@
       "apple",
       "green",
       "watch",
-      "yellow",
       "simple",
       "time"
     ],
@@ -325,10 +305,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gripka",
-      "brasil",
-      "portugues",
-      "mediatouch"
+      "brasil"
     ],
     "list_album": [
       {
@@ -347,7 +324,6 @@
     "array_tags": [
       "date",
       "heartrate",
-      "wola",
       "time"
     ],
     "list_album": [
@@ -365,7 +341,6 @@
     "id_bin": "437",
     "list_language": [],
     "array_tags": [
-      "anhuituan",
       "analog"
     ],
     "list_album": [
@@ -383,9 +358,7 @@
     "id_bin": "438",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "anhuituan",
-      "donghokim"
+      "analog"
     ],
     "list_album": [
       {
@@ -401,10 +374,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/439.bin",
     "id_bin": "439",
     "list_language": [],
-    "array_tags": [
-      "anhuituan",
-      "donghokim"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -440,7 +410,6 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
-      "nike",
       "weather",
       "pulse",
       "english",
@@ -468,7 +437,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [
@@ -509,9 +477,7 @@
     "id_bin": "447",
     "list_language": [],
     "array_tags": [
-      "digital",
-      "mountain",
-      "cat"
+      "digital"
     ],
     "list_album": [
       {
@@ -631,7 +597,6 @@
     "id_bin": "454",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "weather"
     ],
     "list_album": [
@@ -671,11 +636,8 @@
     "array_tags": [
       "digital",
       "soccer",
-      "mengo",
-      "sports",
       "brasil",
-      "futebol",
-      "flamengo"
+      "futebol"
     ],
     "list_album": [
       {
@@ -693,12 +655,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -718,7 +678,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -741,11 +700,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -766,7 +723,6 @@
     "id_bin": "461",
     "list_language": [],
     "array_tags": [
-      "binary",
       "pai"
     ],
     "list_album": [
@@ -785,7 +741,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "steps",
       "sport"
     ],
@@ -805,9 +760,7 @@
     "list_language": [],
     "array_tags": [
       "seconds",
-      "sporting",
       "simple",
-      "stars",
       "steps",
       "sun",
       "sport"
@@ -852,14 +805,11 @@
     "array_tags": [
       "digital",
       "distance",
-      "gradient",
       "pulse",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "mediatouch"
+      "steps"
     ],
     "list_album": [
       {
@@ -920,12 +870,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "morumbi",
-      "adidas",
-      "tricolor",
-      "brasil",
-      "football",
-      "spfc"
+      "brasil"
     ],
     "list_album": [
       {
@@ -944,9 +889,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "futebol",
-      "rosa",
-      "spfc"
+      "futebol"
     ],
     "list_album": [
       {
@@ -965,10 +908,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "mengo",
-      "futebol",
-      "flamengo",
-      "rosa"
+      "futebol"
     ],
     "list_album": [
       {
@@ -1005,7 +945,6 @@
     "id_bin": "474",
     "list_language": [],
     "array_tags": [
-      "boca",
       "simple"
     ],
     "list_album": [
@@ -1044,11 +983,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/476.bin",
     "id_bin": "476",
     "list_language": [],
-    "array_tags": [
-      "azulejo",
-      "simplicity",
-      "bolt"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",

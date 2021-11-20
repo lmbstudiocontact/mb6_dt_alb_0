@@ -58,8 +58,7 @@
     "list_language": [],
     "array_tags": [
       "green",
-      "blue",
-      "snoopy"
+      "blue"
     ],
     "list_album": [
       {
@@ -80,7 +79,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -104,8 +102,7 @@
       "weather",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -124,16 +121,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {
@@ -188,11 +181,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -214,11 +205,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -239,7 +228,6 @@
       "distance",
       "pulse",
       "weather",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -257,10 +245,8 @@
     "id_bin": "2381",
     "list_language": [],
     "array_tags": [
-      "halloween",
       "weather",
       "pulse",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -285,7 +271,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -309,16 +294,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -339,9 +323,7 @@
       "date",
       "heartrate",
       "weather",
-      "wola",
       "battery",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -393,7 +375,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -444,8 +425,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -487,21 +467,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -541,11 +513,7 @@
     "id_bin": "2404",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "music",
-      "battery",
-      "passion",
-      "life"
+      "battery"
     ],
     "list_album": [
       {
@@ -633,18 +601,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {
@@ -793,7 +758,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -818,11 +782,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -878,8 +840,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {
@@ -900,13 +861,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -928,9 +886,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "artist",
-      "simple",
-      "fashion"
+      "simple"
     ],
     "list_album": [
       {
@@ -947,11 +903,7 @@
     "id_bin": "922",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "psyco",
-      "artist",
-      "colorful",
-      "fashion"
+      "analog"
     ],
     "list_album": [
       {
@@ -989,7 +941,6 @@
     "id_bin": "925",
     "list_language": [],
     "array_tags": [
-      "life",
       "animation"
     ],
     "list_album": [
@@ -1116,10 +1067,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "metas",
       "distance",
-      "data",
-      "atstumas",
       "english",
       "time",
       "battery",
@@ -1161,7 +1109,6 @@
     "array_tags": [
       "bluetooth",
       "heartrate",
-      "percentage",
       "weather",
       "lock",
       "calories",

@@ -5,10 +5,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/557.bin",
     "id_bin": "557",
     "list_language": [],
-    "array_tags": [
-      "magyar",
-      "hungary"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -46,8 +43,7 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "simple",
-      "minimalista"
+      "simple"
     ],
     "list_album": [
       {
@@ -224,7 +220,6 @@
       "distance",
       "weather",
       "pulse",
-      "heyplus",
       "simple",
       "calories",
       "steps"
@@ -313,12 +308,8 @@
     "array_tags": [
       "analog",
       "green",
-      "impactopdesign",
-      "rolex",
       "weekday",
-      "luxury",
-      "day",
-      "lux"
+      "day"
     ],
     "list_album": [
       {
@@ -374,33 +365,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -422,12 +399,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -464,13 +438,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/59.bin",
     "id_bin": "59",
     "list_language": [],
-    "array_tags": [
-      "comunismo",
-      "libertad",
-      "bandera",
-      "republica",
-      "politica"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -511,22 +479,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -543,8 +503,6 @@
     "id_bin": "599",
     "list_language": [],
     "array_tags": [
-      "cosmic",
-      "neon",
       "space"
     ],
     "list_album": [
@@ -563,8 +521,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "date",
-      "miui"
+      "date"
     ],
     "list_album": [
       {
@@ -580,12 +537,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/60.bin",
     "id_bin": "60",
     "list_language": [],
-    "array_tags": [
-      "sky",
-      "cielo",
-      "stars",
-      "estrellas"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -601,8 +553,6 @@
     "id_bin": "601",
     "list_language": [],
     "array_tags": [
-      "man",
-      "guitar",
       "animation"
     ],
     "list_album": [
@@ -664,13 +614,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/61.bin",
     "id_bin": "61",
     "list_language": [],
-    "array_tags": [
-      "vikingo",
-      "vikings",
-      "assassins",
-      "valhalla",
-      "viking"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -686,8 +630,7 @@
     "id_bin": "611",
     "list_language": [],
     "array_tags": [
-      "apple",
-      "iphone"
+      "apple"
     ],
     "list_album": [
       {
@@ -724,11 +667,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/615.bin",
     "id_bin": "615",
     "list_language": [],
-    "array_tags": [
-      "battle",
-      "jedi",
-      "starwars"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -746,17 +685,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -774,7 +711,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "weather",
       "pulse",
       "calories",
@@ -795,10 +731,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/62.bin",
     "id_bin": "62",
     "list_language": [],
-    "array_tags": [
-      "vikings",
-      "viking"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -817,14 +750,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -846,7 +776,6 @@
       "weather",
       "weekday",
       "pai",
-      "humidity",
       "time",
       "calories",
       "battery",
@@ -931,12 +860,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/638.bin",
     "id_bin": "638",
     "list_language": [],
-    "array_tags": [
-      "racing",
-      "car",
-      "needforspeed",
-      "speed"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -952,10 +876,7 @@
     "id_bin": "639",
     "list_language": [],
     "array_tags": [
-      "tee",
-      "day",
-      "life",
-      "morning"
+      "day"
     ],
     "list_album": [
       {
@@ -972,7 +893,6 @@
     "id_bin": "641",
     "list_language": [],
     "array_tags": [
-      "city",
       "black"
     ],
     "list_album": [
@@ -989,10 +909,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/65.bin",
     "id_bin": "65",
     "list_language": [],
-    "array_tags": [
-      "sporting",
-      "gijon"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -1010,8 +927,6 @@
     "array_tags": [
       "date",
       "digital",
-      "deep",
-      "throutle",
       "heartrate",
       "weather",
       "battery",
@@ -1036,7 +951,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -1080,7 +994,6 @@
       "distance",
       "weather",
       "pulse",
-      "magnim",
       "calories",
       "steps",
       "colors"

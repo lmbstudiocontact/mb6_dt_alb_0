@@ -8,9 +8,7 @@
     "array_tags": [
       "date",
       "weather",
-      "google",
       "battery",
-      "pixel",
       "sport",
       "steps"
     ],
@@ -28,11 +26,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1110.bin",
     "id_bin": "1110",
     "list_language": [],
-    "array_tags": [
-      "face",
-      "band",
-      "pacman"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2211858",
@@ -51,11 +45,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -77,13 +69,10 @@
     "array_tags": [
       "date",
       "digital",
-      "gif",
-      "metal",
       "animated",
       "pai",
       "battery",
-      "steps",
-      "gear"
+      "steps"
     ],
     "list_album": [
       {
@@ -198,9 +187,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/246.bin",
     "id_bin": "246",
     "list_language": [],
-    "array_tags": [
-      "mario"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2211858",
@@ -251,9 +238,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "vi",
-      "v",
-      "cyberpunk",
       "games",
       "battery"
     ],
@@ -273,9 +257,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "vi",
-      "v",
-      "cyberpunk",
       "games",
       "battery"
     ],
@@ -296,12 +277,9 @@
     "array_tags": [
       "digital",
       "date",
-      "megaman",
       "distance",
-      "megaband",
       "calories",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -321,7 +299,6 @@
     "array_tags": [
       "digital",
       "distance",
-      "digimon",
       "steps"
     ],
     "list_album": [
@@ -340,7 +317,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "witcher",
       "battery"
     ],
     "list_album": [
@@ -379,7 +355,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "pubg",
       "animation"
     ],
     "list_album": [
@@ -418,7 +393,6 @@
     "id_bin": "614",
     "list_language": [],
     "array_tags": [
-      "girl",
       "anime",
       "animation"
     ],
@@ -437,9 +411,6 @@
     "id_bin": "616",
     "list_language": [],
     "array_tags": [
-      "star",
-      "stardewwalley",
-      "pixel",
       "animation"
     ],
     "list_album": [
@@ -458,8 +429,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "games",
-      "pokered"
+      "games"
     ],
     "list_album": [
       {
@@ -499,8 +469,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "games",
-      "pokered"
+      "games"
     ],
     "list_album": [
       {
@@ -520,15 +489,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -545,8 +513,6 @@
     "id_bin": "703",
     "list_language": [],
     "array_tags": [
-      "old",
-      "pacman",
       "animation"
     ],
     "list_album": [
@@ -564,7 +530,6 @@
     "id_bin": "748",
     "list_language": [],
     "array_tags": [
-      "tetris",
       "animation"
     ],
     "list_album": [
@@ -582,8 +547,7 @@
     "id_bin": "799",
     "list_language": [],
     "array_tags": [
-      "pokemon",
-      "pikachu"
+      "pokemon"
     ],
     "list_album": [
       {
@@ -600,8 +564,6 @@
     "id_bin": "817",
     "list_language": [],
     "array_tags": [
-      "kukkiwon",
-      "wtf",
       "taekwondo"
     ],
     "list_album": [
@@ -641,11 +603,6 @@
       "date",
       "digital",
       "game",
-      "isaac",
-      "roguelike",
-      "percentage",
-      "binding",
-      "pixel",
       "steps"
     ],
     "list_album": [
@@ -663,9 +620,7 @@
     "id_bin": "1943",
     "list_language": [],
     "array_tags": [
-      "nintendo",
-      "games",
-      "luigi"
+      "games"
     ],
     "list_album": [
       {
@@ -682,9 +637,7 @@
     "id_bin": "1944",
     "list_language": [],
     "array_tags": [
-      "nintendo",
-      "games",
-      "mario"
+      "games"
     ],
     "list_album": [
       {
@@ -700,9 +653,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/2054.bin",
     "id_bin": "2054",
     "list_language": [],
-    "array_tags": [
-      "nintendo"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2211858",
@@ -717,9 +668,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/2055.bin",
     "id_bin": "2055",
     "list_language": [],
-    "array_tags": [
-      "nintendo"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2211858",
@@ -736,7 +685,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "ken",
       "anime"
     ],
     "list_album": [
@@ -755,8 +703,7 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "anime",
-      "ryu"
+      "anime"
     ],
     "list_album": [
       {
@@ -773,7 +720,6 @@
     "id_bin": "2061",
     "list_language": [],
     "array_tags": [
-      "ubisoft",
       "games"
     ],
     "list_album": [
@@ -808,7 +754,6 @@
     "id_bin": "2063",
     "list_language": [],
     "array_tags": [
-      "geralt",
       "game"
     ],
     "list_album": [
@@ -828,17 +773,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -857,7 +794,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -875,8 +811,6 @@
     "id_bin": "2282",
     "list_language": [],
     "array_tags": [
-      "hitman",
-      "eidos",
       "heartrate",
       "games",
       "steps"
@@ -896,10 +830,8 @@
     "id_bin": "2286",
     "list_language": [],
     "array_tags": [
-      "playstation",
       "heartrate",
       "games",
-      "godofwar",
       "steps"
     ],
     "list_album": [
@@ -917,10 +849,8 @@
     "id_bin": "2287",
     "list_language": [],
     "array_tags": [
-      "playstation",
       "heartrate",
       "games",
-      "godofwar",
       "steps"
     ],
     "list_album": [
@@ -940,7 +870,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -960,7 +889,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [

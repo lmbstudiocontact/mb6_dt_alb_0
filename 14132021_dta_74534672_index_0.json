@@ -51,7 +51,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "atam",
       "bluetooth",
       "heartrate",
       "time",
@@ -73,7 +72,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "doom",
       "animated"
     ],
     "list_album": [
@@ -182,9 +180,7 @@
     "id_bin": "1949",
     "list_language": [],
     "array_tags": [
-      "movies",
-      "games",
-      "yoda"
+      "games"
     ],
     "list_album": [
       {
@@ -200,10 +196,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/1950.bin",
     "id_bin": "1950",
     "list_language": [],
-    "array_tags": [
-      "movies",
-      "yoda"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "74534672",
@@ -218,9 +211,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/1965.bin",
     "id_bin": "1965",
     "list_language": [],
-    "array_tags": [
-      "movies"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "74534672",
@@ -258,8 +249,6 @@
     "id_bin": "2295",
     "list_language": [],
     "array_tags": [
-      "movies",
-      "predator",
       "heartrate",
       "games",
       "steps"
@@ -282,10 +271,7 @@
       "date",
       "analog",
       "heartrate",
-      "days",
-      "xenomorph",
       "steps",
-      "alien",
       "animation"
     ],
     "list_album": [

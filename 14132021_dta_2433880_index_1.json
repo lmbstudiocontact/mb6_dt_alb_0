@@ -6,9 +6,6 @@
     "id_bin": "1080",
     "list_language": [],
     "array_tags": [
-      "dj",
-      "google",
-      "dance",
       "animation"
     ],
     "list_album": [
@@ -149,17 +146,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -294,13 +289,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1104.bin",
     "id_bin": "1104",
     "list_language": [],
-    "array_tags": [
-      "mirror",
-      "face",
-      "color",
-      "effect",
-      "led"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -318,10 +307,7 @@
     "array_tags": [
       "green",
       "blue",
-      "retro",
-      "yellow",
-      "silver",
-      "casio"
+      "retro"
     ],
     "list_album": [
       {
@@ -385,7 +371,6 @@
       "heartrate",
       "calories",
       "battery",
-      "pacman",
       "steps",
       "floors",
       "bluetooth",
@@ -409,17 +394,14 @@
     "array_tags": [
       "date",
       "digital",
-      "hours",
-      "ampm",
       "distance",
       "heartrate",
-      "minutes",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "temperature",
-      "pai"
+      "pai",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -459,7 +441,6 @@
     "id_bin": "1118",
     "list_language": [],
     "array_tags": [
-      "color",
       "bluetooth",
       "notdisturb",
       "lock",
@@ -509,7 +490,6 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "sporting",
       "sport"
     ],
     "list_album": [
@@ -535,7 +515,6 @@
       "calories",
       "battery",
       "steps",
-      "tetris",
       "floors",
       "bluetooth",
       "weather",
@@ -686,7 +665,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "wea",
       "distance",
       "pulse",
       "english",
@@ -798,12 +776,9 @@
     "id_bin": "1139",
     "list_language": [],
     "array_tags": [
-      "data",
       "distance",
-      "analogico",
       "heartrate",
       "notdisturb",
-      "completo",
       "calories",
       "steps",
       "analog",
@@ -811,7 +786,6 @@
       "bluetooth",
       "pai",
       "lock",
-      "bandera",
       "time",
       "day"
     ],
@@ -879,7 +853,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "activity",
       "weather",
       "pulse"
     ],
@@ -925,7 +898,6 @@
       "temperature",
       "weather",
       "pai",
-      "casio",
       "calories",
       "battery",
       "steps"
@@ -1024,12 +996,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "astronaut",
       "bluetooth",
       "notdisturb",
       "black",
       "lock",
-      "purple",
       "time",
       "battery",
       "steps",
@@ -1143,8 +1113,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",

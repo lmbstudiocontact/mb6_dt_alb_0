@@ -7,10 +7,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "comics",
-      "games",
-      "pikachu",
-      "animes"
+      "games"
     ],
     "list_album": [
       {
@@ -28,8 +25,6 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "anim",
-      "girl",
       "anime"
     ],
     "list_album": [
@@ -68,11 +63,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "jujutsu",
       "english",
       "games",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -92,15 +85,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "japanese",
-      "ekko",
       "games",
       "black",
       "english",
-      "animes",
       "steps",
-      "anime",
-      "colorful"
+      "anime"
     ],
     "list_album": [
       {
@@ -117,20 +106,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -152,7 +136,6 @@
       "dragonball",
       "goku",
       "bluetooth",
-      "night",
       "weekday",
       "lock",
       "battery",
@@ -230,7 +213,6 @@
     "list_language": [],
     "array_tags": [
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -248,9 +230,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1309.bin",
     "id_bin": "1309",
     "list_language": [],
-    "array_tags": [
-      "persona"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "63410260",
@@ -302,8 +282,6 @@
     "id_bin": "1355",
     "list_language": [],
     "array_tags": [
-      "vocaloid",
-      "miku",
       "anime"
     ],
     "list_album": [
@@ -395,7 +373,6 @@
       "date",
       "bluetooth",
       "pai",
-      "days",
       "battery",
       "steps"
     ],
@@ -414,8 +391,7 @@
     "id_bin": "1400",
     "list_language": [],
     "array_tags": [
-      "anime",
-      "hololive"
+      "anime"
     ],
     "list_album": [
       {
@@ -432,8 +408,6 @@
     "id_bin": "1404",
     "list_language": [],
     "array_tags": [
-      "fubuki",
-      "hololive",
       "anime"
     ],
     "list_album": [
@@ -526,7 +500,6 @@
     "id_bin": "1427",
     "list_language": [],
     "array_tags": [
-      "minimalist",
       "anime"
     ],
     "list_album": [
@@ -580,14 +553,7 @@
     "id_bin": "1439",
     "list_language": [],
     "array_tags": [
-      "sky",
-      "cloud",
-      "skyblue",
-      "dimples",
       "blue",
-      "modern",
-      "ocean",
-      "vikings",
       "simple",
       "clean",
       "anime"
@@ -607,8 +573,7 @@
     "id_bin": "146",
     "list_language": [],
     "array_tags": [
-      "naruto",
-      "chakra"
+      "naruto"
     ],
     "list_album": [
       {
@@ -626,7 +591,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ultrainstint",
       "goku",
       "retro"
     ],
@@ -680,9 +644,7 @@
     "id_bin": "152",
     "list_language": [],
     "array_tags": [
-      "goku",
-      "jiren",
-      "fight"
+      "goku"
     ],
     "list_album": [
       {
@@ -700,8 +662,7 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "goku",
-      "kid"
+      "goku"
     ],
     "list_album": [
       {

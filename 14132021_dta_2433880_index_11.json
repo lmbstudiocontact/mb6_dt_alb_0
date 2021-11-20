@@ -8,10 +8,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "ceni",
-      "libertadores",
       "animated",
-      "tricolor",
       "futebol",
       "animation"
     ],
@@ -168,7 +165,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -491,16 +487,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/51.bin",
     "id_bin": "51",
     "list_language": [],
-    "array_tags": [
-      "andalus",
-      "islam",
-      "andalucia",
-      "azulejo",
-      "abuelo",
-      "abuela",
-      "tradicional",
-      "azulejos"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -517,7 +504,6 @@
     "list_language": [],
     "array_tags": [
       "weather",
-      "rotated",
       "battery"
     ],
     "list_album": [
@@ -540,7 +526,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -580,10 +565,7 @@
     "id_bin": "513",
     "list_language": [],
     "array_tags": [
-      "preto",
-      "black",
-      "minimalista",
-      "simples"
+      "black"
     ],
     "list_album": [
       {
@@ -619,12 +601,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/518.bin",
     "id_bin": "518",
     "list_language": [],
-    "array_tags": [
-      "ebm",
-      "zuggi",
-      "berzerk",
-      "apoptygma"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -640,10 +617,8 @@
     "id_bin": "52",
     "list_language": [],
     "array_tags": [
-      "big",
       "minimal",
-      "simple",
-      "grande"
+      "simple"
     ],
     "list_album": [
       {
@@ -683,7 +658,6 @@
       "distance",
       "weather",
       "pulse",
-      "humidity",
       "calories",
       "steps"
     ],
@@ -745,8 +719,7 @@
     "array_tags": [
       "minimal",
       "blue",
-      "simple",
-      "azul"
+      "simple"
     ],
     "list_album": [
       {
@@ -762,10 +735,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/532.bin",
     "id_bin": "532",
     "list_language": [],
-    "array_tags": [
-      "magyar",
-      "hungary"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -867,14 +837,7 @@
     "id_bin": "54",
     "list_language": [],
     "array_tags": [
-      "sky",
-      "espacio",
-      "boreal",
-      "borealis",
-      "stars",
-      "aurora",
-      "space",
-      "estrellas"
+      "space"
     ],
     "list_album": [
       {
@@ -912,28 +875,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -951,7 +901,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "temp",
       "distance",
       "pulse",
       "weather",
@@ -995,10 +944,7 @@
     "id_bin": "55",
     "list_language": [],
     "array_tags": [
-      "green",
-      "celta",
-      "celtic",
-      "verde"
+      "green"
     ],
     "list_album": [
       {
@@ -1040,17 +986,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1069,7 +1013,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "rolex",
       "day"
     ],
     "list_album": [

@@ -70,19 +70,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -177,12 +172,9 @@
     "id_bin": "2102",
     "list_language": [],
     "array_tags": [
-      "movies",
       "analog",
-      "geek",
       "serie",
       "animated",
-      "lcar",
       "animation"
     ],
     "list_album": [
@@ -201,15 +193,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -227,16 +216,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -318,7 +306,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hamtaro",
       "anime"
     ],
     "list_album": [
@@ -336,8 +323,7 @@
     "id_bin": "2160",
     "list_language": [],
     "array_tags": [
-      "heartrate",
-      "animal"
+      "heartrate"
     ],
     "list_album": [
       {
@@ -408,10 +394,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/2181.bin",
     "id_bin": "2181",
     "list_language": [],
-    "array_tags": [
-      "mirror",
-      "led"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -429,11 +412,7 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "bluetooth",
-      "gta",
-      "city",
-      "videogame",
       "games",
       "battery",
       "steps"
@@ -453,9 +432,7 @@
     "id_bin": "2183",
     "list_language": [],
     "array_tags": [
-      "apple",
-      "google",
-      "macos"
+      "apple"
     ],
     "list_album": [
       {
@@ -474,7 +451,6 @@
     "array_tags": [
       "digital",
       "date",
-      "nixie",
       "battery"
     ],
     "list_album": [
@@ -589,7 +565,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -618,7 +593,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -647,7 +621,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -672,7 +645,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -684,7 +656,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -750,7 +721,6 @@
     "array_tags": [
       "digital",
       "date",
-      "ampm",
       "weather",
       "alarm",
       "battery"
@@ -773,16 +743,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -827,7 +792,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -882,20 +846,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -916,16 +873,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -943,10 +895,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "passi",
-      "calorie",
-      "battery",
-      "battiti"
+      "battery"
     ],
     "list_album": [
       {
@@ -1079,7 +1028,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "distance",
       "alarm",
       "time",
@@ -1125,14 +1073,9 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "gray",
       "green",
       "blue",
-      "volt",
-      "nike",
-      "purple",
-      "simple",
-      "nrc"
+      "simple"
     ],
     "list_album": [
       {

@@ -6,14 +6,6 @@
     "id_bin": "100",
     "list_language": [],
     "array_tags": [
-      "comunismo",
-      "flag",
-      "republicana",
-      "libertad",
-      "republicano",
-      "colores",
-      "bandera",
-      "republica",
       "colors"
     ],
     "list_album": [
@@ -148,13 +140,7 @@
     "id_bin": "101",
     "list_language": [],
     "array_tags": [
-      "espacio",
-      "nasa",
-      "skay",
-      "cielo",
-      "stars",
-      "space",
-      "estrellas"
+      "space"
     ],
     "list_album": [
       {
@@ -242,9 +228,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1016.bin",
     "id_bin": "1016",
     "list_language": [],
-    "array_tags": [
-      "ruk"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -318,17 +302,7 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/102.bin",
     "id_bin": "102",
     "list_language": [],
-    "array_tags": [
-      "norte",
-      "nord",
-      "vikingo",
-      "vikingos",
-      "north",
-      "vikings",
-      "nordic",
-      "nordico",
-      "viking"
-    ],
+    "array_tags": [],
     "list_album": [
       {
         "id_album": "2433880",
@@ -365,7 +339,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "spanish",
       "distance",
       "heartrate",
       "english",
@@ -412,10 +385,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "vermelho",
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -434,12 +404,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "amarelo",
-      "analogico",
-      "yellow",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -457,11 +422,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
       "green",
-      "analogico",
-      "english",
-      "verde"
+      "english"
     ],
     "list_album": [
       {
@@ -479,8 +441,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -499,11 +459,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "preto",
-      "analogico",
       "black",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -822,7 +779,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -868,7 +824,6 @@
     "id_bin": "1052",
     "list_language": [],
     "array_tags": [
-      "big",
       "time"
     ],
     "list_album": [
