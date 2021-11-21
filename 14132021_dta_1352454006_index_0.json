@@ -1720,7 +1720,36 @@
     "link_thumb": "https://live.staticflickr.com/65535/51676216107_e1d53de7d5_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_6/raw/main/Kitty\u0026MyMelody45_M6_2.bin",
     "id_bin": "Kitty\u0026MyMelody45_M6_2",
-    "list_language": [],
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677266988_ca43a1b39e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_7/raw/main/Kitty\u0026MyMelody45_M6_2_English.bin",
+        "name_language": "English",
+        "id_bin_language": "Kitty\u0026MyMelody45_M6_2_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677902090_14410496d0_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_7/raw/main/Kitty\u0026MyMelody45_M6_2_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "Kitty\u0026MyMelody45_M6_2_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677692644_a9b3164f96_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_7/raw/main/Kitty\u0026MyMelody45_M6_2_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "Kitty\u0026MyMelody45_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677267753_a3f3f43c73_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_7/raw/main/Kitty\u0026MyMelody45_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "Kitty\u0026MyMelody45_M6_2_Spanish"
+      }
+    ],
     "array_tags": [],
     "list_album": [
       {

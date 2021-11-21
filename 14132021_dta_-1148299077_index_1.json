@@ -400,7 +400,36 @@
     "link_thumb": "https://live.staticflickr.com/65535/51676935298_e8cffe7280_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_5/raw/main/DragonBallAnime3_M6_2.bin",
     "id_bin": "DragonBallAnime3_M6_2",
-    "list_language": [],
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677361809_fc02f81971_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_2/raw/main/DragonBallAnime3_M6_2_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DragonBallAnime3_M6_2_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51676689331_649321ff24_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_2/raw/main/DragonBallAnime3_M6_2_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DragonBallAnime3_M6_2_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51676936173_10069ab4a1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_2/raw/main/DragonBallAnime3_M6_2_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DragonBallAnime3_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677362704_ec738b2c86_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_2/raw/main/DragonBallAnime3_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DragonBallAnime3_M6_2_Spanish"
+      }
+    ],
     "array_tags": [],
     "list_album": [
       {

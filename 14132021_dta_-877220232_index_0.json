@@ -55,6 +55,27 @@
         "link_bin": "https://github.com/lmbstudiocontact/mb6_2/raw/main/HalloweenGhostWitch1_M6_2_English.bin",
         "name_language": "English",
         "id_bin_language": "HalloweenGhostWitch1_M6_2_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677718430_9235b5ed8d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_6/raw/main/HalloweenGhostWitch1_M6_2_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "HalloweenGhostWitch1_M6_2_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677718655_76b8fa0a7f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_6/raw/main/HalloweenGhostWitch1_M6_2_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "HalloweenGhostWitch1_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51676033162_470cd1f318_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_6/raw/main/HalloweenGhostWitch1_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "HalloweenGhostWitch1_M6_2_Spanish"
       }
     ],
     "array_tags": [],

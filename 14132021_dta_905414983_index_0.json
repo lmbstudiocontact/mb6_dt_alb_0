@@ -465,6 +465,13 @@
         "link_bin": "https://github.com/lmbstudiocontact/mb6_9/raw/main/Raccoons15_M6_2_Russian.bin",
         "name_language": "Russian",
         "id_bin_language": "Raccoons15_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677796713_13985265b8_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/Raccoons15_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "Raccoons15_M6_2_Spanish"
       }
     ],
     "array_tags": [],

@@ -1169,6 +1169,13 @@
         "link_bin": "https://github.com/lmbstudiocontact/mb6_8/raw/main/CuteArt33_M6_2_Russian.bin",
         "name_language": "Russian",
         "id_bin_language": "CuteArt33_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677331285_65e9b996a5_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_5/raw/main/CuteArt33_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "CuteArt33_M6_2_Spanish"
       }
     ],
     "array_tags": [],

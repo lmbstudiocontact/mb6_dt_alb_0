@@ -224,7 +224,36 @@
     "link_thumb": "https://live.staticflickr.com/65535/51678097829_430248db71_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_3/raw/main/PlantsVsZombies5_M6_2.bin",
     "id_bin": "PlantsVsZombies5_M6_2",
-    "list_language": [],
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51678305965_578d9b61a7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_9/raw/main/PlantsVsZombies5_M6_2_English.bin",
+        "name_language": "English",
+        "id_bin_language": "PlantsVsZombies5_M6_2_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51678306190_e150e98b46_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_9/raw/main/PlantsVsZombies5_M6_2_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "PlantsVsZombies5_M6_2_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677673718_2f2bf8d8ea_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_9/raw/main/PlantsVsZombies5_M6_2_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "PlantsVsZombies5_M6_2_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51677427146_1ab94e9406_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb6_9/raw/main/PlantsVsZombies5_M6_2_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "PlantsVsZombies5_M6_2_Spanish"
+      }
+    ],
     "array_tags": [],
     "list_album": [
       {
