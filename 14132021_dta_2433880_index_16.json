@@ -28,7 +28,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/1709.bin",
     "id_bin": "1709",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "miband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -307,6 +309,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "xiaomimiband6",
       "weekday",
       "simple",
       "battery",

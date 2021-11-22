@@ -94,6 +94,7 @@
     "array_tags": [
       "digital",
       "soccer",
+      "miband6",
       "futebol"
     ],
     "list_album": [
@@ -305,6 +306,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "brasil"
     ],
     "list_album": [
@@ -410,6 +412,7 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "weather",
       "pulse",
       "english",
@@ -433,6 +436,7 @@
     "array_tags": [
       "digital",
       "kcal",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -597,7 +601,8 @@
     "id_bin": "454",
     "list_language": [],
     "array_tags": [
-      "weather"
+      "weather",
+      "dayoftheweek"
     ],
     "list_album": [
       {
@@ -615,6 +620,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather"
@@ -636,6 +642,7 @@
     "array_tags": [
       "digital",
       "soccer",
+      "miband6",
       "brasil",
       "futebol"
     ],
@@ -804,6 +811,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",

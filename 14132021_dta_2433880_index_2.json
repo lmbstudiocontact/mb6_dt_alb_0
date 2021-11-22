@@ -66,6 +66,7 @@
     "list_language": [],
     "array_tags": [
       "kcal",
+      "stepprogress",
       "distance",
       "heartrate",
       "pai",
@@ -146,7 +147,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1188.bin",
     "id_bin": "1188",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "genshinimpact"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -243,7 +246,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1197.bin",
     "id_bin": "1197",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "miband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -467,7 +472,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1214.bin",
     "id_bin": "1214",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -740,6 +747,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "brasil"
     ],
     "list_album": [
@@ -991,7 +999,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1257.bin",
     "id_bin": "1257",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "materialyou"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -1010,6 +1020,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

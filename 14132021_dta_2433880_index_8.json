@@ -428,6 +428,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"
@@ -914,6 +915,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "simple"
     ],
     "list_album": [

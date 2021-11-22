@@ -10,6 +10,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -35,6 +36,7 @@
       "heartrate",
       "english",
       "animated",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -79,6 +81,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -122,6 +125,7 @@
       "digital",
       "month",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -145,6 +149,7 @@
       "month",
       "english",
       "animated",
+      "dayoftheweek",
       "day",
       "anime"
     ],
@@ -186,6 +191,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "battery",
@@ -208,6 +214,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "english",
@@ -266,6 +273,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -324,6 +332,7 @@
     "array_tags": [
       "red",
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -575,7 +584,9 @@
     "id_bin": "1749",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
@@ -592,7 +603,9 @@
     "id_bin": "1750",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
@@ -609,7 +622,9 @@
     "id_bin": "1751",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
@@ -677,6 +692,7 @@
     "id_bin": "1755",
     "list_language": [],
     "array_tags": [
+      "onepiece",
       "anime"
     ],
     "list_album": [
@@ -745,7 +761,9 @@
     "id_bin": "1763",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
@@ -848,6 +866,7 @@
     "id_bin": "1773",
     "list_language": [],
     "array_tags": [
+      "dragonball",
       "goku",
       "anime"
     ],
@@ -881,7 +900,9 @@
     "id_bin": "1775",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
@@ -915,7 +936,9 @@
     "id_bin": "1778",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {

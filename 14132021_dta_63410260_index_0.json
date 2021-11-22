@@ -135,6 +135,7 @@
       "digital",
       "dragonball",
       "goku",
+      "miband6",
       "bluetooth",
       "weekday",
       "lock",
@@ -266,7 +267,10 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1353.bin",
     "id_bin": "1353",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "cartoon",
+      "anime"
+    ],
     "list_album": [
       {
         "id_album": "63410260",
@@ -425,6 +429,7 @@
     "id_bin": "1405",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "anime"
     ],
     "list_album": [
@@ -500,6 +505,7 @@
     "id_bin": "1427",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "anime"
     ],
     "list_album": [
@@ -517,6 +523,7 @@
     "id_bin": "1431",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "simple",
       "anime"
     ],
@@ -535,6 +542,7 @@
     "id_bin": "1432",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "simple",
       "anime"
     ],
@@ -591,6 +599,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "dragonball",
       "goku",
       "retro"
     ],
@@ -626,6 +635,7 @@
     "id_bin": "151",
     "list_language": [],
     "array_tags": [
+      "dragonball",
       "goku",
       "space"
     ],
@@ -644,6 +654,7 @@
     "id_bin": "152",
     "list_language": [],
     "array_tags": [
+      "dragonball",
       "goku"
     ],
     "list_album": [
@@ -870,7 +881,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/445.bin",
     "id_bin": "445",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "63410260",

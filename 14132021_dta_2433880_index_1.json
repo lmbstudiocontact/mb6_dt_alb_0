@@ -89,6 +89,7 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "xiaomimiband6",
       "sport"
     ],
     "list_album": [
@@ -146,15 +147,16 @@
     "array_tags": [
       "date",
       "digital",
-      "blue",
       "distance",
       "heartrate",
-      "weather",
       "weekday",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
-      "animation"
+      "animation",
+      "blue",
+      "weather"
     ],
     "list_album": [
       {
@@ -305,6 +307,7 @@
     "id_bin": "1105",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "green",
       "blue",
       "retro"
@@ -490,6 +493,7 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "xiaomimiband6",
       "sport"
     ],
     "list_album": [
@@ -665,6 +669,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "english",
@@ -712,7 +717,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1135.bin",
     "id_bin": "1135",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "rickandmorty"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -898,6 +905,7 @@
       "temperature",
       "weather",
       "pai",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"

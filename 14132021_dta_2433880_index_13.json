@@ -193,6 +193,8 @@
       "digital",
       "white",
       "black",
+      "portugus",
+      "dayoftheweek",
       "basic",
       "battery",
       "day"
@@ -267,6 +269,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -290,6 +293,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "calories",
@@ -311,6 +315,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -372,6 +377,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -656,6 +662,7 @@
       "date",
       "heartrate",
       "weather",
+      "portugus",
       "brasil",
       "battery",
       "steps"
@@ -777,6 +784,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weekday",
       "black",
       "english",
@@ -801,6 +809,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

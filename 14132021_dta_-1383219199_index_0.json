@@ -34,7 +34,9 @@
         "id_bin_language": "StarWar0_M6_2_Spanish"
       }
     ],
-    "array_tags": [],
+    "array_tags": [
+      "lmbstudio"
+    ],
     "list_album": [
       {
         "id_album": "-1383219199",
@@ -78,7 +80,9 @@
         "id_bin_language": "StarWar1_M6_2_Spanish"
       }
     ],
-    "array_tags": [],
+    "array_tags": [
+      "lmbstudio"
+    ],
     "list_album": [
       {
         "id_album": "-1383219199",

@@ -120,6 +120,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -751,6 +752,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -788,6 +790,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "heartrate",
       "lock",
@@ -987,6 +990,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "english",
       "pulse",
       "weather",

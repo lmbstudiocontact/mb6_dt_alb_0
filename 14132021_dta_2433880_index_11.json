@@ -254,7 +254,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/494.bin",
     "id_bin": "494",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -655,6 +657,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -857,6 +860,7 @@
       "digital",
       "month",
       "english",
+      "dayoftheweek",
       "day"
     ],
     "list_album": [
@@ -901,6 +905,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -925,6 +930,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "day",
       "steps",
       "anime"

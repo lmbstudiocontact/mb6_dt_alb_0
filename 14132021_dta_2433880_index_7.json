@@ -32,6 +32,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "bignumbers",
       "bluetooth",
       "month",
       "black",
@@ -392,7 +393,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/193.bin",
     "id_bin": "193",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",

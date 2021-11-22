@@ -230,7 +230,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/238.bin",
     "id_bin": "238",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "-2075887794",
@@ -605,6 +607,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
+      "miband6",
       "heartrate",
       "battery",
       "steps"
@@ -680,6 +683,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "xiaomimiband6",
       "day"
     ],
     "list_album": [

@@ -55,6 +55,7 @@
     "array_tags": [
       "digital",
       "date",
+      "stepprogress",
       "bluetooth",
       "lock",
       "time",
@@ -191,6 +192,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -386,6 +388,7 @@
     "array_tags": [
       "red",
       "analog",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -423,6 +426,7 @@
     "array_tags": [
       "analog",
       "green",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -441,6 +445,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -562,7 +567,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1034.bin",
     "id_bin": "1034",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "allinfo"
+    ],
     "list_album": [
       {
         "id_album": "2433880",

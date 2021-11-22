@@ -284,7 +284,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/358.bin",
     "id_bin": "358",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -401,6 +403,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -617,15 +620,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
-      "month",
       "heartrate",
-      "weather",
       "weekday",
-      "pulse",
-      "pai",
       "calories",
-      "battery"
+      "battery",
+      "month",
+      "weather",
+      "pulse",
+      "pai"
     ],
     "list_album": [
       {
@@ -788,6 +792,7 @@
     "array_tags": [
       "date",
       "apple",
+      "portugus",
       "watchos"
     ],
     "list_album": [
@@ -964,7 +969,9 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "miband6",
       "green",
+      "xiaomimiband6",
       "retro",
       "weather",
       "time",
@@ -1047,7 +1054,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/398.bin",
     "id_bin": "398",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",

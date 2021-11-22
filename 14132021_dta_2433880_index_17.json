@@ -379,7 +379,9 @@
     "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/2172.bin",
     "id_bin": "2172",
     "list_language": [],
-    "array_tags": [],
+    "array_tags": [
+      "xiaomimiband6"
+    ],
     "list_album": [
       {
         "id_album": "2433880",
@@ -432,7 +434,8 @@
     "id_bin": "2183",
     "list_language": [],
     "array_tags": [
-      "apple"
+      "apple",
+      "miband6"
     ],
     "list_album": [
       {
@@ -451,6 +454,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery"
     ],
     "list_album": [
@@ -521,8 +525,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -621,8 +627,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -850,6 +858,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"
@@ -895,6 +904,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "xiaomimiband6",
       "battery"
     ],
     "list_album": [

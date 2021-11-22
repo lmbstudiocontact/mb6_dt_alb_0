@@ -34,7 +34,9 @@
         "id_bin_language": "OnePunchManAnime0_M6_2_Spanish"
       }
     ],
-    "array_tags": [],
+    "array_tags": [
+      "lmbstudio"
+    ],
     "list_album": [
       {
         "id_album": "-40111719",
@@ -78,7 +80,9 @@
         "id_bin_language": "OnePunchManAnime1_M6_2_Spanish"
       }
     ],
-    "array_tags": [],
+    "array_tags": [
+      "lmbstudio"
+    ],
     "list_album": [
       {
         "id_album": "-40111719",

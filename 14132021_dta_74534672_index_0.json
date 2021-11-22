@@ -7,7 +7,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "analog"
+      "analog",
+      "dayoftheweek"
     ],
     "list_album": [
       {
@@ -72,6 +73,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "animated"
     ],
     "list_album": [
@@ -227,6 +229,7 @@
     "id_bin": "2248",
     "list_language": [],
     "array_tags": [
+      "warnerbros",
       "cartoon",
       "heartrate",
       "serie",
@@ -291,6 +294,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",
