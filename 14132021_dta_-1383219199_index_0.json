@@ -1,34 +1,34 @@
 [
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51780633770_7de29d444c_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51788195940_51e033af47_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar0_M6_2.bin",
     "id_bin": "StarWar0_M6_2",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778046566_ebdffdcb49_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787947094_dd78969835_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar0_M6_2_English.bin",
         "name_language": "English",
         "id_bin_language": "StarWar0_M6_2_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778046551_889d8b0981_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787946974_5b7cfefcb6_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar0_M6_2_Portuguese.bin",
         "name_language": "Portuguese",
         "id_bin_language": "StarWar0_M6_2_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778689449_a5f9cdb4f4_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572498_26b0a3551f_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar0_M6_2_Russian.bin",
         "name_language": "Russian",
         "id_bin_language": "StarWar0_M6_2_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778689409_eba6bdfe72_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787946814_bbca8db1a4_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar0_M6_2_Spanish.bin",
         "name_language": "Spanish",
         "id_bin_language": "StarWar0_M6_2_Spanish"
@@ -40,41 +40,41 @@
     "list_album": [
       {
         "id_album": "-1383219199",
-        "link_thumb": "https://live.staticflickr.com/65535/51780633770_7de29d444c_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51788195940_51e033af47_o.gif",
         "title": "Star War_M6_2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51780391379_4622316b66_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787323121_f90d117030_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar1_M6_2.bin",
     "id_bin": "StarWar1_M6_2",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778689379_7ed8869df6_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787946684_9ba34ef0f5_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar1_M6_2_English.bin",
         "name_language": "English",
         "id_bin_language": "StarWar1_M6_2_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51777229062_3bd5921ec4_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787946614_0d8fa4be4b_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar1_M6_2_Portuguese.bin",
         "name_language": "Portuguese",
         "id_bin_language": "StarWar1_M6_2_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778933695_e415206f9f_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787946509_b3f2a62333_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar1_M6_2_Russian.bin",
         "name_language": "Russian",
         "id_bin_language": "StarWar1_M6_2_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51778933650_48be899f48_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51788195240_b90ec91b0a_o.gif",
         "link_bin": "https://github.com/lmbstudiocontact/mb6_4/raw/main/StarWar1_M6_2_Spanish.bin",
         "name_language": "Spanish",
         "id_bin_language": "StarWar1_M6_2_Spanish"
@@ -86,7 +86,7 @@
     "list_album": [
       {
         "id_album": "-1383219199",
-        "link_thumb": "https://live.staticflickr.com/65535/51780391379_4622316b66_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787323121_f90d117030_o.gif",
         "title": "Star War_M6_2"
       }
     ]
